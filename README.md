@@ -1,5 +1,5 @@
 # Fibonacci-Calculator
-Ever wonder how to fibonacci fast? Here's how! Use this calculator! Submit a pull request for anything you think can be imporved.
+Ever wonder how to fibonacci fast? Here's how! Use this calculator! Submit a pull request for anything you think can be improved.
 
 =======================================
 --------------Requirements-------------
