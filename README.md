@@ -15,7 +15,7 @@ Ever wonder how to fibonacci fast? Here's how! Use this calculator! Submit a pul
 
 You can run this program two ways:
   1) You can run the .py file with a python compiler, or
-  2) Look inside the dist directory, and you will see an executable file(.exe). Run that(HIGHLY SUGGESTED)
+  2) Look inside the dist directory, and you will see an executable file(.exe). Run that(HIGHLY SUGGESTED)(for Windows OS only)
 
 I suggest the second way, but if you want you can use the first.
 
